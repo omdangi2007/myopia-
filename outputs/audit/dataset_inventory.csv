@@ -1,0 +1,6 @@
+dataset,sheet,rows,columns,duplicate_rows,delimiter,decimal
+DATA.xls,2018,3658,11,0,,
+DATA.xls,2014,3057,11,74,,
+DATA.xls,Sheet3,0,0,0,,
+Data3.xlsx,2014-2017,2024,13,15,,
+DataSet_main.csv,CSV,876,23,1,';',","

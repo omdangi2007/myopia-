@@ -1,0 +1,5 @@
+dataset,rows_source,rows_exported,source_duplicate_rows,source_missing_cells,export,imputation,exclusions
+DATA.xls/2018,3658,3658,0,0,datasets/processed/DATA_xls_2018_parsed_review.csv,none; unsupported without definitions,0
+DATA.xls/2014,3057,3057,74,19,datasets/processed/DATA_xls_2014_parsed_review.csv,none; unsupported without definitions,0
+Data3.xlsx/2014-2017,2024,2024,15,142,datasets/processed/Data3_xlsx_2014-2017_parsed_review.csv,none; unsupported without definitions,0
+DataSet_main.csv,876,876,1,46,datasets/processed/DataSet_main_csv_parsed_review.csv,none; unsupported without definitions,0

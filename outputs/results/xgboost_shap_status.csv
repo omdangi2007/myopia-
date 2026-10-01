@@ -1,0 +1,2 @@
+status,interpretation_note
+success,SHAP values explain model predictions; they are not causal effects.

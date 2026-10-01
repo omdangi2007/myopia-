@@ -1,0 +1,39 @@
+dataset,sheet,column,name_based_candidates,note
+DATA.xls,2018,gender,demographic,Requires codebook/protocol verification
+DATA.xls,2018,time of study at weekdays,environment_lifestyle,Requires codebook/protocol verification
+DATA.xls,2018,time of study at weekend days,environment_lifestyle,Requires codebook/protocol verification
+DATA.xls,2018,time outdoors at weekdays,environment_lifestyle,Requires codebook/protocol verification
+DATA.xls,2018,time outdoors at weekend days,environment_lifestyle,Requires codebook/protocol verification
+DATA.xls,2018,height,anthropometric,Requires codebook/protocol verification
+DATA.xls,2018,weight,anthropometric,Requires codebook/protocol verification
+DATA.xls,2018,spherical refraction of right eye,sphere,Requires codebook/protocol verification
+DATA.xls,2018,cylindrical refraction of right eye,cylinder,Requires codebook/protocol verification
+DATA.xls,2018,axial length of right eye,axial_length,Requires codebook/protocol verification
+DATA.xls,2014,gender,demographic,Requires codebook/protocol verification
+DATA.xls,2014,time of study at weekdays,environment_lifestyle,Requires codebook/protocol verification
+DATA.xls,2014,time of study at weekend days,environment_lifestyle,Requires codebook/protocol verification
+DATA.xls,2014,time outdoors at weekdays,environment_lifestyle,Requires codebook/protocol verification
+DATA.xls,2014,time outdoors at weekend days,environment_lifestyle,Requires codebook/protocol verification
+DATA.xls,2014,height,anthropometric,Requires codebook/protocol verification
+DATA.xls,2014,weight,anthropometric,Requires codebook/protocol verification
+DATA.xls,2014,spherical refraction of right eye,sphere,Requires codebook/protocol verification
+DATA.xls,2014,cylindrical refraction of right eye,cylinder,Requires codebook/protocol verification
+DATA.xls,2014,axial length of right eye,axial_length,Requires codebook/protocol verification
+Data3.xlsx,2014-2017,gender,demographic,Requires codebook/protocol verification
+Data3.xlsx,2014-2017,birthday,demographic,Requires codebook/protocol verification
+Data3.xlsx,2014-2017,height,anthropometric,Requires codebook/protocol verification
+Data3.xlsx,2014-2017,weight,anthropometric,Requires codebook/protocol verification
+Data3.xlsx,2014-2017,spherical refraction of right eye,sphere,Requires codebook/protocol verification
+Data3.xlsx,2014-2017,spherical refraction of left eye,sphere,Requires codebook/protocol verification
+Data3.xlsx,2014-2017,cylinder refraction of right eye,cylinder,Requires codebook/protocol verification
+Data3.xlsx,2014-2017,cylinder refraction of left eye,cylinder,Requires codebook/protocol verification
+Data3.xlsx,2014-2017,AL of right eye,axial_length,Requires codebook/protocol verification
+Data3.xlsx,2014-2017,AL of left eye,axial_length,Requires codebook/protocol verification
+DataSet_main.csv,CSV,ID,identifier,Requires codebook/protocol verification
+DataSet_main.csv,CSV,SE,SER_or_spherical_equivalent,Requires codebook/protocol verification
+DataSet_main.csv,CSV,Sex,demographic,Requires codebook/protocol verification
+DataSet_main.csv,CSV,Age,demographic,Requires codebook/protocol verification
+DataSet_main.csv,CSV,Gest_Age,demographic,Requires codebook/protocol verification
+DataSet_main.csv,CSV,Sleep,environment_lifestyle,Requires codebook/protocol verification
+DataSet_main.csv,CSV,Read_D,environment_lifestyle,Requires codebook/protocol verification
+DataSet_main.csv,CSV,PA,environment_lifestyle,Requires codebook/protocol verification

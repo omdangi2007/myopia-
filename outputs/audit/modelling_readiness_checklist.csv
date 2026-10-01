@@ -1,0 +1,9 @@
+check,complete,evidence_or_missing_item
+Target formula confirmed against clinical protocol and refraction notation,False,No codebook/protocol supplied
+Right-eye laterality and measurement conditions confirmed,False,Column names indicate right eye; protocol unavailable
+"Predictor definitions, units, coding, and prediction-time availability confirmed",False,Gender/time units and measurement timing undocumented
+Sentinel-like values adjudicated,False,-1/-9 are observed; meanings unverified
+Duplicate/repeated-participant structure understood,False,No participant IDs in DATA.xls; cross-sheet overlap cannot be checked
+Development/test split strategy can prevent participant leakage,False,No identifiers/groups available to verify repeated participants
+Independent validation compatibility established,False,Data3 and CSV definitions/protocols unresolved
+Model training authorized by scientific readiness,False,Blocked pending items above

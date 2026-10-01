@@ -1,0 +1,8 @@
+experiment,status,reason
+A_all,not_run,"Feature ablations require verified feature definitions, target, and eligible observations."
+B_demographic_biological,not_run,"Feature ablations require verified feature definitions, target, and eligible observations."
+C_clinical,not_run,"Feature ablations require verified feature definitions, target, and eligible observations."
+D_environmental_lifestyle,not_run,"Feature ablations require verified feature definitions, target, and eligible observations."
+E_biological_clinical,not_run,"Feature ablations require verified feature definitions, target, and eligible observations."
+F_biological_environmental,not_run,"Feature ablations require verified feature definitions, target, and eligible observations."
+G_all_except_axial_length,not_run,"Feature ablations require verified feature definitions, target, and eligible observations."

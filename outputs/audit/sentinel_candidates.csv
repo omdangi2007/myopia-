@@ -1,0 +1,10 @@
+dataset,sheet,column,candidate_invalid_or_sentinel_count,values
+DATA.xls,2014,cylindrical refraction of right eye,175,"{""-1"": 171, ""/"": 4}"
+DATA.xls,2014,axis of right eye,51,"{""/"": 51}"
+DATA.xls,2014,axial length of right eye,1,"{""/"": 1}"
+Data3.xlsx,2014-2017,cylinder refraction of right eye,186,"{""-1"": 181, ""/"": 5}"
+Data3.xlsx,2014-2017,cylinder refraction of left eye,112,"{""-1"": 107, ""/"": 5}"
+Data3.xlsx,2014-2017,axis of right eye,198,"{""/"": 198}"
+Data3.xlsx,2014-2017,axis of left eye,198,"{""/"": 198}"
+Data3.xlsx,2014-2017,AL of right eye,137,"{""/"": 137}"
+Data3.xlsx,2014-2017,AL of left eye,137,"{""/"": 137}"

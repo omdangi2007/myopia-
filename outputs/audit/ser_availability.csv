@@ -1,0 +1,6 @@
+dataset,sheet,direct_SE_name_candidates,sphere_candidates,cylinder_candidates,candidate_continuous_SER_possible,interpretation
+DATA.xls,2018,,spherical refraction of right eye,cylindrical refraction of right eye,True,Candidate only; requires refraction convention and laterality documentation
+DATA.xls,2014,,spherical refraction of right eye,cylindrical refraction of right eye,True,Candidate only; requires refraction convention and laterality documentation
+DATA.xls,Sheet3,,,,False,Candidate only; requires refraction convention and laterality documentation
+Data3.xlsx,2014-2017,,spherical refraction of right eye | spherical refraction of left eye,cylinder refraction of right eye | cylinder refraction of left eye,True,Candidate only; requires refraction convention and laterality documentation
+DataSet_main.csv,CSV,SE,,,False,Candidate only; requires refraction convention and laterality documentation

@@ -1,0 +1,59 @@
+cohort,source_column,candidate_group,standardized_name,definition_verified
+DATA.xls/2018,gender,demographic,,False
+DATA.xls/2018,time of study at weekdays,environmental_lifestyle,,False
+DATA.xls/2018,time of study at weekend days,environmental_lifestyle,,False
+DATA.xls/2018,time outdoors at weekdays,environmental_lifestyle,,False
+DATA.xls/2018,time outdoors at weekend days,environmental_lifestyle,,False
+DATA.xls/2018,height,biological,,False
+DATA.xls/2018,weight,biological,,False
+DATA.xls/2018,spherical refraction of right eye,unclassified_requires_codebook,,False
+DATA.xls/2018,cylindrical refraction of right eye,clinical,,False
+DATA.xls/2018,axis of right eye,unclassified_requires_codebook,,False
+DATA.xls/2018,axial length of right eye,clinical,,False
+DATA.xls/2014,gender,demographic,,False
+DATA.xls/2014,time of study at weekdays,environmental_lifestyle,,False
+DATA.xls/2014,time of study at weekend days,environmental_lifestyle,,False
+DATA.xls/2014,time outdoors at weekdays,environmental_lifestyle,,False
+DATA.xls/2014,time outdoors at weekend days,environmental_lifestyle,,False
+DATA.xls/2014,height,biological,,False
+DATA.xls/2014,weight,biological,,False
+DATA.xls/2014,spherical refraction of right eye,unclassified_requires_codebook,,False
+DATA.xls/2014,cylindrical refraction of right eye,clinical,,False
+DATA.xls/2014,axis of right eye,unclassified_requires_codebook,,False
+DATA.xls/2014,axial length of right eye,clinical,,False
+Data3.xlsx/2014-2017,gender,demographic,,False
+Data3.xlsx/2014-2017,birthday,demographic,,False
+Data3.xlsx/2014-2017,examination date,unclassified_requires_codebook,,False
+Data3.xlsx/2014-2017,height,biological,,False
+Data3.xlsx/2014-2017,weight,biological,,False
+Data3.xlsx/2014-2017,spherical refraction of right eye,unclassified_requires_codebook,,False
+Data3.xlsx/2014-2017,spherical refraction of left eye,unclassified_requires_codebook,,False
+Data3.xlsx/2014-2017,cylinder refraction of right eye,clinical,,False
+Data3.xlsx/2014-2017,cylinder refraction of left eye,clinical,,False
+Data3.xlsx/2014-2017,axis of right eye,unclassified_requires_codebook,,False
+Data3.xlsx/2014-2017,axis of left eye,unclassified_requires_codebook,,False
+Data3.xlsx/2014-2017,AL of right eye,unclassified_requires_codebook,,False
+Data3.xlsx/2014-2017,AL of left eye,unclassified_requires_codebook,,False
+DataSet_main.csv,ID,identifier_exclude,,False
+DataSet_main.csv,NewClass_M,unclassified_requires_codebook,,False
+DataSet_main.csv,Class_M,unclassified_requires_codebook,,False
+DataSet_main.csv,SE,unclassified_requires_codebook,,False
+DataSet_main.csv,Sex,demographic,,False
+DataSet_main.csv,Age,demographic,,False
+DataSet_main.csv,Sch_Level,unclassified_requires_codebook,,False
+DataSet_main.csv,Sch_Location,unclassified_requires_codebook,,False
+DataSet_main.csv,A_SS,unclassified_requires_codebook,,False
+DataSet_main.csv,F_E,unclassified_requires_codebook,,False
+DataSet_main.csv,M_E,unclassified_requires_codebook,,False
+DataSet_main.csv,Gest_Age,demographic,,False
+DataSet_main.csv,Delivery,unclassified_requires_codebook,,False
+DataSet_main.csv,BreastF,unclassified_requires_codebook,,False
+DataSet_main.csv,Fam_H,unclassified_requires_codebook,,False
+DataSet_main.csv,Sleep,environmental_lifestyle,,False
+DataSet_main.csv,Read_D,environmental_lifestyle,,False
+DataSet_main.csv,PA,unclassified_requires_codebook,,False
+DataSet_main.csv,HW,unclassified_requires_codebook,,False
+DataSet_main.csv,OutAct_w,unclassified_requires_codebook,,False
+DataSet_main.csv,OutAct_wkd,unclassified_requires_codebook,,False
+DataSet_main.csv,SP_w,unclassified_requires_codebook,,False
+DataSet_main.csv,SP_wkd,unclassified_requires_codebook,,False

@@ -1,0 +1,59 @@
+dataset,sheet,column,dtype,inferred_type,n_nonmissing,n_missing,missing_pct,unique_nonmissing,numeric_parse_pct_nonmissing,numeric_min,numeric_max
+DATA.xls,2018,gender,int64,numerical,3658,0,0.0,2,100.0,0.0,1.0
+DATA.xls,2018,time of study at weekdays,int64,numerical,3658,0,0.0,104,100.0,0.0,1320.0
+DATA.xls,2018,time of study at weekend days,int64,numerical,3658,0,0.0,127,100.0,0.0,1410.0
+DATA.xls,2018,time outdoors at weekdays,int64,numerical,3658,0,0.0,69,100.0,0.0,960.0
+DATA.xls,2018,time outdoors at weekend days,int64,numerical,3658,0,0.0,94,100.0,0.0,840.0
+DATA.xls,2018,height,float64,numerical,3658,0,0.0,172,100.0,97.7,192.5
+DATA.xls,2018,weight,float64,numerical,3658,0,0.0,704,100.0,16.5,125.0
+DATA.xls,2018,spherical refraction of right eye,float64,numerical,3658,0,0.0,66,100.0,-14.0,8.25
+DATA.xls,2018,cylindrical refraction of right eye,float64,numerical,3658,0,0.0,23,100.0,-5.0,0.0
+DATA.xls,2018,axis of right eye,int64,numerical,3658,0,0.0,176,100.0,0.0,180.0
+DATA.xls,2018,axial length of right eye,float64,numerical,3658,0,0.0,614,100.0,20.01,29.22
+DATA.xls,2014,gender,int64,numerical,3057,0,0.0,2,100.0,0.0,1.0
+DATA.xls,2014,time of study at weekdays,int64,numerical,3057,0,0.0,78,100.0,0.0,599.0
+DATA.xls,2014,time of study at weekend days,int64,numerical,3057,0,0.0,90,100.0,0.0,900.0
+DATA.xls,2014,time outdoors at weekdays,int64,numerical,3057,0,0.0,59,100.0,0.0,570.0
+DATA.xls,2014,time outdoors at weekend days,int64,numerical,3057,0,0.0,75,100.0,0.0,840.0
+DATA.xls,2014,height,float64,numerical,3057,0,0.0,179,100.0,104.5,239.0
+DATA.xls,2014,weight,float64,numerical,3057,0,0.0,649,100.0,17.1,190.0
+DATA.xls,2014,spherical refraction of right eye,float64,numerical,3057,0,0.0,118,100.0,-12.75,8.0
+DATA.xls,2014,cylindrical refraction of right eye,object,numerical,3057,0,0.0,58,99.86915276414786,-6.5,1.0
+DATA.xls,2014,axis of right eye,object,numerical,3038,19,0.6215243702976775,180,98.32126398946676,0.0,180.0
+DATA.xls,2014,axial length of right eye,object,numerical,3057,0,0.0,605,99.96728819103697,20.44,29.94
+Data3.xlsx,2014-2017,gender,object,categorical,2024,0,0.0,2,0.0,,
+Data3.xlsx,2014-2017,birthday,int64,numerical,2024,0,0.0,3,100.0,2006.0,2008.0
+Data3.xlsx,2014-2017,examination date,int64,numerical,2024,0,0.0,4,100.0,2014.0,2017.0
+Data3.xlsx,2014-2017,height,float64,numerical,2023,1,0.04940711462450593,198,100.0,-1.0,159.5
+Data3.xlsx,2014-2017,weight,float64,numerical,2023,1,0.04940711462450593,379,100.0,-1.0,70.7
+Data3.xlsx,2014-2017,spherical refraction of right eye,float64,numerical,2016,8,0.3952569169960474,210,100.0,-6.5,6.75
+Data3.xlsx,2014-2017,spherical refraction of left eye,float64,numerical,2017,7,0.3458498023715415,209,100.0,-10.9,7.5
+Data3.xlsx,2014-2017,cylinder refraction of right eye,object,numerical,2017,7,0.3458498023715415,146,99.75210708973724,-5.75,0.5
+Data3.xlsx,2014-2017,cylinder refraction of left eye,object,numerical,2016,8,0.3952569169960474,125,99.75198412698413,-5.5,0.75
+Data3.xlsx,2014-2017,axis of right eye,object,numerical,1976,48,2.371541501976284,163,89.92914979757084,0.0,180.0
+Data3.xlsx,2014-2017,axis of left eye,object,numerical,1964,60,2.9644268774703555,167,89.91853360488798,0.0,180.0
+Data3.xlsx,2014-2017,AL of right eye,object,numerical,2023,1,0.04940711462450593,396,93.22787938704894,20.84,31.93
+Data3.xlsx,2014-2017,AL of left eye,object,numerical,2023,1,0.04940711462450593,392,93.22787938704894,20.86,26.74
+DataSet_main.csv,CSV,ID,float64,numerical,874,2,0.228310502283105,874,100.0,100.0,973.0
+DataSet_main.csv,CSV,NewClass_M,float64,numerical,874,2,0.228310502283105,2,100.0,0.0,1.0
+DataSet_main.csv,CSV,Class_M,float64,numerical,874,2,0.228310502283105,2,100.0,0.0,1.0
+DataSet_main.csv,CSV,SE,float64,numerical,874,2,0.228310502283105,192,100.0,-9.54,8.46
+DataSet_main.csv,CSV,Sex,float64,numerical,874,2,0.228310502283105,2,100.0,1.0,2.0
+DataSet_main.csv,CSV,Age,float64,numerical,874,2,0.228310502283105,61,100.0,9.9,17.6
+DataSet_main.csv,CSV,Sch_Level,float64,numerical,874,2,0.228310502283105,2,100.0,2.0,3.0
+DataSet_main.csv,CSV,Sch_Location,float64,numerical,874,2,0.228310502283105,2,100.0,1.0,2.0
+DataSet_main.csv,CSV,A_SS,float64,numerical,874,2,0.228310502283105,2,100.0,1.0,2.0
+DataSet_main.csv,CSV,F_E,float64,numerical,874,2,0.228310502283105,3,100.0,-1.0,2.0
+DataSet_main.csv,CSV,M_E,float64,numerical,874,2,0.228310502283105,3,100.0,-1.0,2.0
+DataSet_main.csv,CSV,Gest_Age,float64,numerical,874,2,0.228310502283105,2,100.0,0.0,1.0
+DataSet_main.csv,CSV,Delivery,float64,numerical,874,2,0.228310502283105,3,100.0,-1.0,2.0
+DataSet_main.csv,CSV,BreastF,float64,numerical,874,2,0.228310502283105,4,100.0,-1.0,2.0
+DataSet_main.csv,CSV,Fam_H,float64,numerical,874,2,0.228310502283105,4,100.0,-1.0,2.0
+DataSet_main.csv,CSV,Sleep,float64,numerical,874,2,0.228310502283105,3,100.0,-1.0,2.0
+DataSet_main.csv,CSV,Read_D,float64,numerical,874,2,0.228310502283105,3,100.0,-1.0,2.0
+DataSet_main.csv,CSV,PA,float64,numerical,874,2,0.228310502283105,4,100.0,-1.0,2.0
+DataSet_main.csv,CSV,HW,float64,numerical,874,2,0.228310502283105,3,100.0,-1.0,2.0
+DataSet_main.csv,CSV,OutAct_w,float64,numerical,874,2,0.228310502283105,4,100.0,-1.0,3.0
+DataSet_main.csv,CSV,OutAct_wkd,float64,numerical,874,2,0.228310502283105,4,100.0,-1.0,3.0
+DataSet_main.csv,CSV,SP_w,float64,numerical,874,2,0.228310502283105,5,100.0,-1.0,4.0
+DataSet_main.csv,CSV,SP_wkd,float64,numerical,874,2,0.228310502283105,5,100.0,-1.0,4.0

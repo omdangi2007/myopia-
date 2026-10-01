@@ -1,0 +1,2 @@
+experiment,status,best_model,best_cv_mae_D,reason
+all requested regression model searches,not_run,,,Tuning deferred until a verified outcome and predictor schema exist.

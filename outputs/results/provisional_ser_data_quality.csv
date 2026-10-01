@@ -1,0 +1,2 @@
+n_rows,exact_duplicate_rows_retained,missing_cells_in_required_fields,sphere_min,sphere_max,cylinder_min,cylinder_max,candidate_SER_min,candidate_SER_max,sphere_minus1_count,sphere_minus9_count,cylinder_minus1_count,rows_excluded,ser_formula,target_status
+3658,0,0,-14.0,8.25,-5.0,0.0,-15.75,7.125,118,3,318,0,sphere + cylinder / 2,provisional; source refraction convention unverified

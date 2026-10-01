@@ -1,0 +1,6 @@
+# Source files contain row-level clinical data; keep them out of the public repository.
+/DATA.xls
+/Data3.xlsx
+/DataSet_main.csv
+/datasets/processed/*_parsed_review.csv
+/outputs/audit/top_unique_values.csv
